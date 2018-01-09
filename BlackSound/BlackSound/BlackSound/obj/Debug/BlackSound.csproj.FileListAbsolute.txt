@@ -1,0 +1,6 @@
+c:\users\madlen\documents\visual studio 2017\Projects\BlackSound\BlackSound\bin\Debug\BlackSound.exe.config
+c:\users\madlen\documents\visual studio 2017\Projects\BlackSound\BlackSound\bin\Debug\BlackSound.exe
+c:\users\madlen\documents\visual studio 2017\Projects\BlackSound\BlackSound\bin\Debug\BlackSound.pdb
+c:\users\madlen\documents\visual studio 2017\Projects\BlackSound\BlackSound\obj\Debug\BlackSound.csprojResolveAssemblyReference.cache
+c:\users\madlen\documents\visual studio 2017\Projects\BlackSound\BlackSound\obj\Debug\BlackSound.exe
+c:\users\madlen\documents\visual studio 2017\Projects\BlackSound\BlackSound\obj\Debug\BlackSound.pdb

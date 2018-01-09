@@ -1,0 +1,18 @@
+Admin
+adminpass
+True
+1
+admin@abv.bg
+Admin
+madlen
+madlenpass
+False
+2
+madlen@abv.bg
+Madlen Stoycheva
+milen
+milenpass
+False
+3
+milen.stoichev@abv.bg
+milen
